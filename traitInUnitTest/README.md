@@ -1,5 +1,5 @@
 # Content
-In this project you will learn how to use a trait that can replace a particular method during unit testing
+In this project you will learn how to use a trait that can replace a particular method during unit testing (through dependency injection).
 
 Follow the steps below to do a Coding Dojo.
 
