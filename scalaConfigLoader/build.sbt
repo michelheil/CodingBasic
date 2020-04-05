@@ -1,6 +1,6 @@
 name := "scalaConfigLoader"
 
-version := "0.1"
+version := "0.2"
 
 scalaVersion := "2.11.12"
 
@@ -19,3 +19,6 @@ libraryDependencies ++= Seq(
 
 // https://mvnrepository.com/artifact/com.typesafe/config
 libraryDependencies += "com.typesafe" % "config" % "1.3.4"
+
+// https://mvnrepository.com/artifact/org.scalatest/scalatest
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.1.1" % Test
