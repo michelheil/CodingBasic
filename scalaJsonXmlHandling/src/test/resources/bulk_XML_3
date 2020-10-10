@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<a>
+    <moreInfo>adminUnit</moreInfo>
+    <generalHeader>
+        <headerOne>Hallo</headerOne>
+    </generalHeader>
+    <scorings>
+        <scoring>
+            <contractID>1</contractID>
+            <pd>0.5</pd>
+        </scoring>
+        <scoring>
+            <contractID>2</contractID>
+            <pd>0.2</pd>
+        </scoring>
+        <scoring>
+            <contractID>3</contractID>
+            <pd>0.1</pd>
+        </scoring>
+    </scorings>
+    <generalFooter>
+        <final>close</final>
+    </generalFooter>
+</a>
